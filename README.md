@@ -5,16 +5,17 @@ This is a concept design on a single ID device to provide an alternative to hold
 
 <hr>
 
+<strong> Programming Language:  </strong>
+<ul>
+ 	<li> C# </li>
+</ul>
+
 <strong> Editor Used:  </strong>
 <ul>
  	<li> Visual Studio Code </li>
  	<li> Unity </li>
 </ul>
 
-<strong> Programming Language:  </strong>
-<ul>
- 	<li> C# </li>
-</ul>
 
 <strong>  Ensure the following plugins are installed:  </strong>
 <h6>*Its not guarenteed to work on newer versions of these plugins, unity often goes through plugin updates which can break specific features when migrating </h3>
