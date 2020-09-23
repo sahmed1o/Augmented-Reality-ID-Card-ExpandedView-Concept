@@ -4,7 +4,7 @@ Fingerprint e-ink imprint system concept. Touch the e-ink suface once and the fi
 This is a concept design on a single ID device to provide an alternative to holding multiple cards. The device gives information on an individual, as well as handle banking authentication using a fingerprint imprint reader, while also providing an expanded view of information using augmented reality.
 
 <hr>
- 
+
 <strong> Editor Used:  </strong>
 <ul>
  	<li> Visual Studio Code </li>
@@ -23,10 +23,15 @@ This is a concept design on a single ID device to provide an alternative to hold
 
 <strong> Equipment: </strong>
 <ul>
- 	<li> Android Device with AR Supports (Check ARCore compatibility List) </li>
+ 	<li> Android Device with AR Support (Check ARCore compatibility List) </li>
 </ul>
 
 <hr>
 
-
+<strong> Building onto it (incomplete features): </strong>
+<ul>
+ <li> Capture finger with current devices fingerprint scanner, and store it. </li>
+ <li> AR cloud anchor, to link devices with secondary device used as a fingerprint reader </li>
+ <li> Store captured fingerprint on databaste (Firebase if android). </li>
+</ul>
 
