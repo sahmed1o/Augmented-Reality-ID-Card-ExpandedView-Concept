@@ -12,7 +12,8 @@ This is a concept design on a single ID device to provide an alternative to hold
 </ul>
 
 <strong>  Ensure the following plugins are installed:  </strong>
-*Its not guarenteed to work on newer versions, unity often goes through plugin updates which can break specific features
+
+<h6>*Its not guarenteed to work on newer versions, unity often goes through plugin updates which can break specific features </h3>
 <ul>
   <li> Unity Version 2019.4.4f1 </li>
   <li> AR Foundation Version 3.1.3 </li>
