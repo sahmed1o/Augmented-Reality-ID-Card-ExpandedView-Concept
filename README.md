@@ -1,3 +1,3 @@
 # Augmented-Reality-Fingerprint-Registration-Concept
 
-A concept of a single ID device to replace having to hold a bunch of cards. The device gives information on an individual, as well as handle their banking and show expanded information using augmented reality 
+A single ID device concept to solve the issue of holding multiple cards. The device gives information on an individual, as well as handle banking, while also providing an expanded view of information using augmented reality 
