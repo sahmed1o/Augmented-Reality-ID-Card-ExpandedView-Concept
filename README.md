@@ -26,6 +26,15 @@ This is a concept design on a single ID device to provide an alternative to hold
  	<li> Android Device with AR Support (Check ARCore compatibility List) </li>
 </ul>
 
+
+<strong> How to test Concept AR Demo: </strong>
+<ul>
+ 	<li> Open the app one device </li>
+ 	<li> Open the sample ID image on another device using any image app </li>
+ 	<li> Wait until App detects image </li>
+ 	<li> Once app detects image a small flicker of a graphic will show, at this point tap the screen once and the demo will run </li>
+</ul>
+
 <hr>
 
 <strong> Building onto it (incomplete features): </strong>
