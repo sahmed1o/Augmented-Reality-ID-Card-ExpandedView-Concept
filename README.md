@@ -46,8 +46,8 @@ This is a concept design on a single ID device to provide an alternative to hold
 
 <strong> Building onto it (incomplete features): </strong>
 <ul>
- <li> Capture finger with current devices fingerprint scanner, and store it. </li>
+ <li> Capture finger with current devices fingerprint scanner, and store it </li>
  <li> AR cloud anchor, to link devices with secondary device used as a fingerprint reader </li>
- <li> Store captured fingerprint on databaste (Firebase if android). </li>
+ <li> Store captured fingerprint on databaste (Firebase if android) </li>
 </ul>
 
