@@ -26,6 +26,7 @@ This is a concept design on a single ID device to provide an alternative to hold
  	<li> Android Device with AR Support (Check ARCore compatibility List) </li>
 </ul>
 
+<hr>
 
 <strong> How to test Concept AR Demo: </strong>
 <ul>
