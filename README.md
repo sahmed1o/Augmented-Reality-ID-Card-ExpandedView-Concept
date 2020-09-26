@@ -47,6 +47,6 @@ AR ID card expanded view concept. Touch the e-ink suface once and the fingerprin
 <ul>
  <li> Capture finger with current devices fingerprint scanner, and store it </li>
  <li> AR cloud anchor, to link devices with secondary device used as a fingerprint reader </li>
- <li> Store captured fingerprint on databaste (Firebase if android) </li>
+ <li> Store captured fingerprint on database (e.g. Firebase if android) </li>
 </ul>
 
