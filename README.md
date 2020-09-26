@@ -2,7 +2,7 @@
 
 AR ID card expanded view concept. Touch the e-ink suface once and the fingerprint is saved, then remove the finger and wait for the electronic card to scan it, and check if user is registered. The concept id card device gives information on an individual, as well as handle banking authentication using a fingerprint imprint reader.
 
-<img src="SocialMediaImages/imageEXP.png"  height="400" />
+<img src="SocialMediaImages/imageEXP.png"  height="300" />
 
 <hr>
 
