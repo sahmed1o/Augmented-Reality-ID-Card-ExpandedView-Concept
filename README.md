@@ -5,7 +5,7 @@ ID card expanded view concept in Augmented Reality. Touch the e-ink suface once 
 <img src="SocialMediaImages/imageEXP.png"  height="280" />
 
 Link to HD videos of the program running can be found under the "SocialMediaVideos" Folder:
-<h6>*Video can be reused, or shared under your own account, but please link back to the original source here: ( https://www.instagram.com/shail1o/ ). </h3>
+<h6>*Video can be shared under your own account, but please link back to the original source here: ( https://www.instagram.com/shail1o/ ). </h3>
 
 https://github.com/shail1o/Augmented-Reality-ID-Card-ExpandedView-Concept/tree/master/SocialMediaVideos
 
