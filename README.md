@@ -8,6 +8,11 @@ Link to HD videos of the program running can be found under the "SocialMediaVide
 
 https://github.com/sahelahmd/Augmented-Reality-ID-Card-ExpandedView-Concept/tree/master/SocialMediaVideos
 
+<p align="center">
+<strong> Example: </strong>
+<img src="https://github.com/sahelahmd/Augmented-Reality-ID-Card-ExpandedView-Concept/blob/master/SocialMediaImages/exampleV.gif" width=800>
+</p>
+
 <hr>
 
 <strong> Programming Language:  </strong>
