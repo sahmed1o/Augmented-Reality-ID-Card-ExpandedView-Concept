@@ -1,6 +1,6 @@
 # Augmented-Reality-ID-Card-ExpandedView-Concept
 
-ID card expanded view concept in Augmented Reality. The AR concept involves touching an imprint reader to store the fingerprint, then removing the finger and waiting for the electronic card to scan it to check if user is registered. The concept id card device gives information on an individual, as well as handle authentication using a fingerprint imprint reader.
+ID card expanded view concept in Augmented Reality. The AR concept involves touching an imprint reader to store the fingerprint, then removing the finger and waiting for the electronic card to scan it to check if user is registered. The concept id card device gives information on an individual, as well as handle the authentication using a fingerprint imprint reader.
 
 <img src="SocialMediaImages/imageEXP.png"  height="280" />
 
