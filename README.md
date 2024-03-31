@@ -61,7 +61,7 @@ https://github.com/sahelahmd/Augmented-Reality-ID-Card-ExpandedView-Concept/tree
  <li> Store captured fingerprint on database (e.g. Firebase if android) </li>
 </ul>
 
-<strong>Fingerprint Identification Demo can be found here:  </strong>
+<strong>An Example Fingerprint Identification System can be found here:  </strong>
 <ul>
 <li> https://github.com/aaahmedms/Fingerprint-Identification-System </li>
 </ul>
