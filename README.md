@@ -62,4 +62,6 @@ https://github.com/sahelahmd/Augmented-Reality-ID-Card-ExpandedView-Concept/tree
 </ul>
 
 <strong>Fingerprint Identification Demo can be found here:  </strong>
-https://github.com/aaahmedms/Fingerprint-Identification-System
+<ul>
+<li> https://github.com/aaahmedms/Fingerprint-Identification-System </li>
+</ul>
